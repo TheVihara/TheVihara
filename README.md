@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I am Vihara also known as Vihara or Dr.Allen on spigotmc. <br>
+I am Allixy also known as Vihara or Dr.Allen on spigotmc. <br>
 Mostly self taught everything I know about coding. I love working on minecraft servers and coding minecraft plugins.
 
 <p align="center">
