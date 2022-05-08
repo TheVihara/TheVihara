@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I am Alen Gorenjec also known as Allixy or Dr.Allen on spigotmc, I come from Slovenia. <br>
+I am Vihara also known as Vihara or Dr.Allen on spigotmc. <br>
 Mostly self taught everything I know about coding. I love working on minecraft servers and coding minecraft plugins.
 
 <p align="center">
