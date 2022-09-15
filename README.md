@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://i.imgur.com/t1qgTNOg.jpg" align="center" style="width: 100%" />
+<div>
 <h1 align="center">Hi 👋, I'm Alen</h1>
 <h3 align="center">A passionate developer from Slovenia</h3>
 
