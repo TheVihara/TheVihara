@@ -1,17 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alen</h1>
 <h3 align="center">A passionate developer from Slovenia</h3>
 
-- 🌱 I’m currently learning **HTML, CSS and JavaScript**
-
-- 👯 I’m looking to collaborate on [Astrono Network](https://astrono.net/)
-
-- 🤝 I’m looking for help with [Infinity Miners](https://discord.infinityminers.org/)
-
-- 💬 Ask me about **Server Development, Java, Minecraft Plugins**
+- 🌱 I’m currently learning **React, PHP**
 
 - 📫 How to reach me **gorenjecalen@gmail.com**
-
-- ⚡ Fun fact **I think I'm pretty boring.**
 
 <h3 align="left">Connect with me:</h3>
 - Vihar#8325
