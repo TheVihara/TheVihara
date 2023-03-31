@@ -12,6 +12,7 @@ In addition to programming, I'm also skilled in system administration and have k
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![System Administration](https://img.shields.io/badge/-System%20Administration-0078D6?style=flat-square)
 
 ## Contact
 Feel free to reach out to me on [GitHub](https://github.com/thevihara) or [Discord](https://discord.gg/cQ5pPttgCF).
