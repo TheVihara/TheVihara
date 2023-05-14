@@ -2,7 +2,7 @@
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=thevihara.thevihara)
 
-My name is Alen and I'm a passionate programmer from Slovenia. I have 3 years of experience with Java and half a year of experience with Rust. I also have some experience with HTML, CSS, and LuaScript.
+My name is Alen and I'm a passionate programmer from Slovenia. I have 5 years of experience with Java and half a year of experience with Rust. I also have some experience with HTML, CSS, and LuaScript.
 
 In addition to programming, I'm also skilled in system administration and have knowledge of how networks work. In my free time, I enjoy playing Minecraft.
 
