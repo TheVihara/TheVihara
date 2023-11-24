@@ -1,18 +1,27 @@
-# Hi there 👋
+# Hello, World! 👋
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=thevihara.thevihara)
+![Profile Views](https://komarev.com/ghpvc/?username=thevihara&color=brightgreen)
 
-My name is Alen and I'm a passionate programmer from Slovenia. I have 5 years of experience with Java and half a year of experience with Rust. I also have some experience with HTML, CSS, and LuaScript.
+I'm a 16-year-old developer from Slovenia, passionate about coding and creating innovative solutions. My journey in the world of programming began when I wanted to craft my own plugins using the Spigot API for my Minecraft server. Since then, my interest has blossomed into a love for various programming languages.
 
-In addition to programming, I'm also skilled in system administration and have knowledge of how networks work. In my free time, I enjoy playing Minecraft.
+## 🚀 Skills and Technologies
 
-## Skills
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![System Administration](https://img.shields.io/badge/-System%20Administration-0078D6?style=flat-square)
+- **Java:** My foundation, strengthened through creating Minecraft plugins.
+- **JavaScript:** Exploring the world of web development.
+- **C++:** Diving into systems programming and game development.
+- **Rust:** Exploring safe systems programming.
+- **C#:** Developing applications in the .NET framework.
+- **LuaScript:** Scripting for versatility.
 
-## Contact
-Feel free to reach out to me on [GitHub](https://github.com/thevihara) or [Discord](https://discord.gg/cQ5pPttgCF).
+## 📫 Get in Touch
+
+- Discord: vihara.
+- Twitter: [@TheVihara](https://twitter.com/TheVihara)
+
+## 🤝 Open to Collaboration
+
+I'm always open to collaborating on interesting projects. If you have an idea or project you'd like to discuss, feel free to reach out!
+
+## 🎉 Thanks for visiting!
+
+Thank you for checking out my GitHub profile. If you find anything interesting or have any suggestions, feel free to explore or drop me a message. Happy coding! 🚀
