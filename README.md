@@ -1,28 +1,3 @@
-# Hello, World! 👋
+I specialize in developing flexible, distributed applications that seamlessly communicate with each other. I have extensive experience programming in Java, Kotlin, Go, TypeScript, and JavaScript. For data storage, I primarily work with MySQL and SQLite, but I’m also proficient in handling file-based databases like JSON and YAML.
 
-![Profile Views](https://komarev.com/ghpvc/?username=thevihara&color=brightgreen)
-
-I'm a 17-year-old developer from Slovenia, passionate about coding and creating innovative solutions. My journey in the world of programming began when I wanted to craft my own plugins using the Spigot API for my Minecraft server. Since then, my interest has blossomed into a love for various programming languages.
-
-## 🚀 Skills and Technologies
-
-- **Java:** My foundation, strengthened through creating Minecraft plugins.
-- **JavaScript:** Exploring the world of web development.
-- **C++:** Diving into systems programming and game development.
-- **Rust:** Exploring safe systems programming.
-- **C#:** Developing applications in the .NET framework.
-- **LuaScript:** Scripting for versatility.
-- **Docker:** Deploying dynamic apps into isolated containers.
-
-## 📫 Get in Touch
-
-- Discord: vihara.
-- Twitter: [@TheVihara](https://twitter.com/TheVihara)
-
-## 🤝 Open to Collaboration
-
-I'm always open to collaborating on interesting projects. If you have an idea or project you'd like to discuss, feel free to reach out!
-
-## 🎉 Thanks for visiting!
-
-Thank you for checking out my GitHub profile. If you find anything interesting or have any suggestions, feel free to explore or drop me a message. Happy coding! 🚀
+In addition to software development, I’m well-versed in system administration and deployment tools such as Docker, Nginx, Redis, and Grafana. I have experience configuring and managing scalable infrastructure, ensuring applications run smoothly in production environments.
