@@ -1,3 +1,37 @@
-I specialize in developing flexible, distributed applications that seamlessly communicate with each other. I have extensive experience programming in Java, Kotlin, Go, TypeScript, and JavaScript. For data storage, I primarily work with MySQL and SQLite, but I’m also proficient in handling file-based databases like JSON and YAML.
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/66212113?v=4" width="100" alt="TheVihara logo" />
+  <h1>TheVihara</h1>
+  <a href="https://github.com/TheVihara/TheVihara">
+    <img src="https://img.shields.io/github/last-commit/TheVihara/TheVihara?style=flat-square" alt="Last Commit">
+  </a>
+  <a href="https://github.com/TheVihara/TheVihara">
+    <img src="https://img.shields.io/github/repo-size/TheVihara/TheVihara?style=flat-square" alt="Repo Size">
+  </a>
+  <a href="https://github.com/TheVihara/TheVihara">
+    <img src="https://img.shields.io/github/issues/TheVihara/TheVihara?style=flat-square" alt="Issues">
+  </a>
+</div>
 
-In addition to software development, I’m well-versed in system administration and deployment tools such as Docker, Nginx, Redis, and Grafana. I have experience configuring and managing scalable infrastructure, ensuring applications run smoothly in production environments.
+---
+
+### 👋 Hi, I'm TheVihara!
+
+I build complex and scalable applications using modern technologies like **Java**, **Kotlin**, **Docker**, **TypeScript**, and **React**.
+
+- Java & Kotlin for robust backends
+- Docker for smooth deployments
+- TypeScript & React for great user interfaces
+
+I'm also experienced with tools like Nginx, Redis, and Grafana for infrastructure and monitoring.
+
+---
+
+<p align="center">
+  <a href="https://github.com/TheVihara">
+    <img src="https://github-readme-stats.vercel.app/api?username=TheVihara&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=default" alt="TheVihara's GitHub stats" />
+  </a>
+</p>
+
+---
+
+Feel free to check out my projects or connect with me here!
