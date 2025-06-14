@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/66212113?v=4" width="100" alt="TheVihara logo" />
-  <h1>TheVihara</h1>
+  <h1>Vihara</h1>
   <a href="https://github.com/TheVihara/TheVihara">
     <img src="https://img.shields.io/github/last-commit/TheVihara/TheVihara?style=flat-square" alt="Last Commit">
   </a>
