@@ -14,7 +14,7 @@
 
 ---
 
-### 👋 Hi, I'm TheVihara!
+### 👋 Hi, I'm Vihara!
 
 I build complex and scalable applications using modern technologies like **Java**, **Kotlin**, **Docker**, **TypeScript**, and **React**.
 
